@@ -1,0 +1,11 @@
+#tela{
+    display: block;
+    margin: 0 auto;
+}
+#titulo{
+   text-align: center;
+}
+#botaoIniciar{
+    display: block;
+    margin: 0 auto;
+}

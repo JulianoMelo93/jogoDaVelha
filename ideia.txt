@@ -1,0 +1,22 @@
+simbolo aleatorio depois de clicar no botão  ( função gerarSimbolo())
+
+primeira jogada é do usuario
+
+é verificado se esta livre ( função verificarQuadrante())
+é marcado no quadrante
+verifica se fez a boa.
+passa a vez. 
+
+depois é a vez da maquina com outro simbolo
+ele faz a vistoria do quadrante
+marca em um quadrante aleatorio
+verifica se fez a boa. 
+passa a vez.
+
+segunda jogada do usuario.
+faz a jogada
+verifica se esta livre o quadrante.
+é marcado no quadrante. 
+verifica se fez a boa.
+passa a vez.
+
